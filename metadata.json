@@ -1,0 +1,5 @@
+{
+  "name": "FundAI: Intelligent Portfolio Builder",
+  "description": "A sophisticated mutual fund advisor that uses Gemini AI to curate personalized investment portfolios based on your financial goals, risk appetite, and investment horizon.",
+  "requestFramePermissions": []
+}
